@@ -1,5 +1,7 @@
 class Dog{
 	// java 狗类
 
-   public String name="张三丰";
+   	public String name="张三丰";
+
+	public char sex='男';
 }
